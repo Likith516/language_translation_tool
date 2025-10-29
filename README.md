@@ -37,6 +37,6 @@ A Speech-to-Speech translation model which uses a neural network for translation
 - [Node](https://nodejs.org/en)
 
 # Flowchart
-<img src="img/flowchart.png" style="align-self: center" alt="flowchart">
+<img src="imgs" style="align-self: center" alt="flowchart">
 
 ### This is the public frontend version of Project BNR32, collaboratively developed with my friends Aasrith and Rishi. It serves as a display-only version, while the original repository has been made private for security and intellectual property purposes. The original repository can be presented upon request if needed.
